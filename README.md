@@ -6,7 +6,7 @@
     <img src="code/login/images/logo.png" alt="Logo" width="60" height="70">
   </a>
 
-  <h3 align="center">Cafe IUTea</h3>
+ 
 
   <p align="center">
     An order, inventory and employee management system for a café to be used by both employees and managers.
@@ -49,9 +49,7 @@
 
 <!-- ![image](https://github.com/Xer0Bytes/Innuo/assets/95132675/0dc4247f-0347-4f72-8c05-79d241e4cb0d) -->
 
-(This project was created for the academic course CSE4410 - Database Management Systems II Lab).
 
-This web application caters specifically to cafes and similar establishments, offering a comprehensive platform for managers and staff to efficiently handle and monitor orders and inventory. 
 
 Key functionalities include robust user authentication, CRUD operations for managing employees, ingredients, and recipes. Detailed order management capabilities include automated cost calculations and real-time inventory updates. The system also features advanced search functionalities for navigating extensive ingredient lists, as well as automated alerts and removal of items nearing or past expiry dates. Additionally, users benefit from a user-friendly media upload feature for easy access to recipe contents.
 
@@ -144,58 +142,3 @@ To get a local copy up and running follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-<!-- CONTACTS -->
-## Contact:
-
-- **Shanta Maria**
-  - *GitHub:* [maria-iut1234](https://github.com/maria-iut1234)
-- **M M Nazmul Hossain**
-  - *GitHub:* [nazmul4532](https://www.github.com/nazmul4532)
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Img Shields](https://shields.io)
-* [GitHub ReadMe Template](https://github.com/othneildrew/Best-README-Template/tree/master)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-
-[MySQL-url]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[HTML5-url]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[Javascript-url]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[PHP-url]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
-
-
-[MySQL-url]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[HTML5-url]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[Javascript-url]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[PHP-url]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
